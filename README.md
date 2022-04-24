@@ -1,16 +1,37 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**harshthakkar09/harshthakkar09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Harsh Thakkar :wave:
 
-Here are some ideas to get you started:
+![](https://i.gifer.com/origin/23/23b4b79490fdda967ee0fcc8d9c57402_w200.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub followers](https://img.shields.io/github/followers/harshthakkar09?style=social)
+</div>
+<samp>
+  
+**🤔 STATUS:**  Learning and exploring DSA, Flutter(dart) and Go language
+
+**💎 JOB:** Software Engineer (Currently, Golang developer :man_technologist:)
+
+**💻 LANGUAGES:** C++, Go, HTML, CSS, JavaScript, Dart, PHP
+
+**💻 FRAMEWORKS & TECHNOLOGIES:** Flutter, Docker, Terraform, Terraformer
+
+**❤️ HOBBIES:** Gujarati litterature, Watching Cricket, Problem solving, Travelling
+
+**🏢 ORGANISATION:** Crest Data Systems. Currently, looking to work in a startup or product base company 😉
+
+**:mailbox_with_mail: Get in touch :** 
+<a href="https://www.linkedin.com/in/harsh-thakkar-b81a23151/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+  </a>
+
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=harsh_114&theme=dark&extension=activity)
+
+</samp>
+
+<div align="center">
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshthakkar09&layout=compact&hide=html" alt="harshthakkar09" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshthakkar09&show_icons=true" alt="harshthakkar09" />
