@@ -16,16 +16,16 @@
 
 **💻 FRAMEWORKS & TECHNOLOGIES:** Flutter, Docker, Terraform, Terraformer
 
-**❤️ HOBBIES:** Gujarati litterature, Watching Cricket, Problem solving, Travelling
+**❤️ HOBBIES:** Gujarati Literature, Watching Cricket, Problem Solving, Travelling
 
-**🏢 ORGANISATION:** Crest Data Systems. Currently, looking to work in a startup or productbased company 😉
+**🏢 ORGANISATION:** Crest Data Systems. Currently, looking to work in a startup or product-based company 😉
 
 **:mailbox_with_mail: Get in touch :** 
 <a href="https://www.linkedin.com/in/harsh-thakkar-b81a23151/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=harsh_114&theme=dark&extension=activity)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=harsh_114&theme=dark&)
 
 </samp>
 
