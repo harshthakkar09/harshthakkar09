@@ -18,7 +18,7 @@
 
 **❤️ HOBBIES:** Gujarati Literature, Watching Cricket, Problem Solving, Travelling
 
-**🏢 ORGANISATION:** Enjoying vacation and looking to work in a startup or product-based company 😉
+**🏢 ORGANISATION:** Oracle 👨‍💻
 
 **:mailbox_with_mail: Get in touch :** 
 <a href="https://www.linkedin.com/in/harsh-thakkar-b81a23151/">
