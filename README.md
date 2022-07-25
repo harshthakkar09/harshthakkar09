@@ -18,7 +18,7 @@
 
 **❤️ HOBBIES:** Gujarati Literature, Watching Cricket, Problem Solving, Travelling
 
-**🏢 ORGANISATION:** Oracle 👨‍💻
+**🏢 ORGANISATION:** Application Developer - 2 at Oracle 👨‍💻
 
 **:mailbox_with_mail: Get in touch :** 
 <a href="https://www.linkedin.com/in/harsh-thakkar-b81a23151/">
