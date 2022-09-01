@@ -8,20 +8,20 @@
 </div>
 <samp>
   
-**🤔 STATUS:**  Learning and exploring DSA, Flutter(dart) and Go language
+**🤔 STATUS:**  Learning and exploring DSA. Also learning Go language
 
-**💎 JOB:** Software Engineer (Currently, Golang developer :man_technologist:)
+**💎 JOB:** Application Developer - 2 👨‍💻
 
-**💻 LANGUAGES:** C++, Go, HTML, CSS, JavaScript, Dart, PHP
+**💻 LANGUAGES:** C++, Go, Java ,HTML, CSS, JavaScript
 
-**💻 FRAMEWORKS & TECHNOLOGIES:** Flutter, Docker, Terraform, Terraformer
+**💻 FRAMEWORKS & TECHNOLOGIES:** Oracle Application Development Framework, PL/SQL, Terraform, Terraformer
 
 **❤️ HOBBIES:** Gujarati Literature, Watching Cricket, Problem Solving, Travelling
 
 **🏢 ORGANISATION:** Application Developer - 2 at Oracle 👨‍💻
 
 **:mailbox_with_mail: Get in touch :** 
-<a href="https://www.linkedin.com/in/harsh-thakkar-b81a23151/">
+<a href="https://www.linkedin.com/in/harsh114/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
